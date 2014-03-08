@@ -1,0 +1,37 @@
+Message:
+  Prefix: "&c[RankInfo] "
+  
+Ranks:
+  Command1Message: "&1Rank"
+  Command2Message: "&1Rank"
+  Command3Message: "&1Rank"
+  Command4Message: "&1Rank"
+  Command5Message: "&1Rank"
+  Command6Message: "&1Rank"
+  Command7Message: "&1Rank"
+  Command8Message: "&1Rank"
+  Command9Message: "&1Rank"
+  Command10Message: "&1Rank"
+  Command11Message: "&1Rank" 
+  
+Command:
+  Command1: "C1"
+  Command2: "C2"
+  Command3: "C3"
+  Command4: "C4"
+  Command5: "C5"
+  Command6: "C6"
+  Command7: "C7"
+  Command8: "C8"
+  Command9: "C9"
+  Command10: "C10"
+  
+Menu: 
+  Message: "&b/Rank list for a list of the ranks"
+List:
+  List: "&bType /Rank"
+
+  
+commands:
+  /Test:
+    message: "&bTesting custom Command"

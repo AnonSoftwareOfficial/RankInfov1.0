@@ -1,0 +1,9 @@
+name: Rankinfo
+version: 1.0
+website: www.youtube.com/shawn5383
+main: me.HackerPro.Ri.Ri
+author: HackerProaka
+description: Rank info /rank
+commands:
+  Rank:
+    description: Type /Ranks List For Rank Details
